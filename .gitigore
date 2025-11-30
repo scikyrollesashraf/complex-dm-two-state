@@ -1,0 +1,20 @@
+cat > .gitignore <<'EOF'
+# LaTeX temp files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+
+# Python caches
+__pycache__/
+*.pyc
+
+# outputs (optional: remove if you want include examples)
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+EOF
