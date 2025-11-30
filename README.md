@@ -301,7 +301,7 @@ that others have under applicable law.
 For further information, visit: https://creativecommons.org/licenses/by/4.0/legalcode
 
 
-## Data & Code Availability (example text)
+## Data & Code Availability
 
 > The code and data used to generate results in this manuscript are available at `https://github.com/scikyrollesashraf/complex-dm-two-state` 
 
